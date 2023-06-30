@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Wendybap/TodoMachineReactJS/static/css/main.dac809d2.css",
-    "main.js": "/Wendybap/TodoMachineReactJS/static/js/main.fe7fd67c.js",
-    "static/media/SuperMario256.ttf": "/Wendybap/TodoMachineReactJS/static/media/SuperMario256.727519250ea444b6c5ce.ttf",
-    "index.html": "/Wendybap/TodoMachineReactJS/index.html",
-    "static/media/delete.svg": "/Wendybap/TodoMachineReactJS/static/media/delete.253668d653616a4e68d22c69ee5da594.svg",
-    "static/media/check.svg": "/Wendybap/TodoMachineReactJS/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
-    "main.dac809d2.css.map": "/Wendybap/TodoMachineReactJS/static/css/main.dac809d2.css.map",
-    "main.fe7fd67c.js.map": "/Wendybap/TodoMachineReactJS/static/js/main.fe7fd67c.js.map"
+    "main.css": "/TodoMachineReactJS/static/css/main.0a433de6.css",
+    "main.js": "/TodoMachineReactJS/static/js/main.67528dc9.js",
+    "static/media/SuperMario256.ttf": "/TodoMachineReactJS/static/media/SuperMario256.727519250ea444b6c5ce.ttf",
+    "index.html": "/TodoMachineReactJS/index.html",
+    "static/media/delete.svg": "/TodoMachineReactJS/static/media/delete.253668d653616a4e68d22c69ee5da594.svg",
+    "static/media/check.svg": "/TodoMachineReactJS/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
+    "main.0a433de6.css.map": "/TodoMachineReactJS/static/css/main.0a433de6.css.map",
+    "main.67528dc9.js.map": "/TodoMachineReactJS/static/js/main.67528dc9.js.map"
   },
   "entrypoints": [
-    "static/css/main.dac809d2.css",
-    "static/js/main.fe7fd67c.js"
+    "static/css/main.0a433de6.css",
+    "static/js/main.67528dc9.js"
   ]
 }
