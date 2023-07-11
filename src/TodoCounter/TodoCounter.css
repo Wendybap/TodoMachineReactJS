@@ -1,0 +1,40 @@
+@font-face {
+  font-family: "Super Mario 256";
+  src: url("../fonts/SuperMario256.ttf") format("truetype");
+}
+
+.TodoCounter {
+  font-size: 24px;
+  text-align: center;
+  margin: 0;
+  /* padding: 48px; */
+  font-weight: normal;
+}
+
+.TodoCounter span {
+  font-weight: bold;
+  margin: -2.5px;
+}
+
+#Title {
+  font-family: "Super Mario 256", sans-serif;
+  font-size: 4rem;
+  -webkit-text-stroke: 5px black;
+  text-align: center;
+  margin-top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+#Title .word-0 {
+  position: relative;
+  top: 0.5em;
+}
+
+.Subtitle {
+  text-align: center;
+  margin-top: 3em;
+  padding-bottom: 2em;
+}
