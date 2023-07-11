@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/TodoMachineReactJS/static/css/main.0a433de6.css",
-    "main.js": "/TodoMachineReactJS/static/js/main.67528dc9.js",
+    "main.css": "/TodoMachineReactJS/static/css/main.240f9a17.css",
+    "main.js": "/TodoMachineReactJS/static/js/main.da527543.js",
+    "static/media/PressStart2P-Regular.ttf": "/TodoMachineReactJS/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
     "static/media/SuperMario256.ttf": "/TodoMachineReactJS/static/media/SuperMario256.727519250ea444b6c5ce.ttf",
     "index.html": "/TodoMachineReactJS/index.html",
     "static/media/delete.svg": "/TodoMachineReactJS/static/media/delete.253668d653616a4e68d22c69ee5da594.svg",
     "static/media/check.svg": "/TodoMachineReactJS/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
-    "main.0a433de6.css.map": "/TodoMachineReactJS/static/css/main.0a433de6.css.map",
-    "main.67528dc9.js.map": "/TodoMachineReactJS/static/js/main.67528dc9.js.map"
+    "main.240f9a17.css.map": "/TodoMachineReactJS/static/css/main.240f9a17.css.map",
+    "main.da527543.js.map": "/TodoMachineReactJS/static/js/main.da527543.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a433de6.css",
-    "static/js/main.67528dc9.js"
+    "static/css/main.240f9a17.css",
+    "static/js/main.da527543.js"
   ]
 }
